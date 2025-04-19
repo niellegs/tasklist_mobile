@@ -30,8 +30,8 @@ Um aplicativo de gerenciamento de tarefas simples com CRUD, feito inteiramente c
 \
 ``npm start``
 
-## Capturas de Tela
 
-![Design sem nome(7)](https://github.com/user-attachments/assets/82650abe-4617-4c46-822b-5ef05165496e)
+## Capturas de Tela
+![image](https://github.com/user-attachments/assets/d8270cee-ec4a-46c4-92ad-0f7adf872124)
 
 ## Hospedagem
