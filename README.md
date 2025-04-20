@@ -37,4 +37,4 @@ Um aplicativo de gerenciamento de tarefas simples com CRUD, feito inteiramente c
 
 ## Hospedagem
 
-[Baixe o APK para Android](https://expo.dev/artifacts/eas/qRjvkpPucA27y7hMcJi9JZ.aab)
+[Baixe o APK para Android](https://expo.dev/accounts/lynx02/projects/RNCourse/builds/21673243-fcee-4d46-aa34-8c7566f642d8)
