@@ -31,7 +31,10 @@ Um aplicativo de gerenciamento de tarefas simples com CRUD, feito inteiramente c
 ``npm start``
 
 
+
 ## Capturas de Tela
 ![image](https://github.com/user-attachments/assets/d8270cee-ec4a-46c4-92ad-0f7adf872124)
 
 ## Hospedagem
+
+[Baixe o APK para Android](https://expo.dev/artifacts/eas/qRjvkpPucA27y7hMcJi9JZ.aab)
